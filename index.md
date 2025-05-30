@@ -1,7 +1,3 @@
----
-layout: home
-title: Community-Driven Data Practices
----
 
 ![Workshop Banner](assets/banner.png)
 
