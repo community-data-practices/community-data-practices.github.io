@@ -1,7 +1,7 @@
 
 ![Workshop Banner](assets/banner.png)
 
-# Workshop at COMPASS 2025, Toronto
+# Community-Driven Data Practices for Advancing Ethical and Equitable AI in Low-Resource Language Contexts
 
 ## Call For Participation
 
