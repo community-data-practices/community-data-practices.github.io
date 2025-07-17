@@ -13,6 +13,29 @@ This workshop invites researchers with diverse experiences---including but not l
 
 If you are interested in attending, please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeVRpt8es1aMK1g-35oEyhBcJ3WHsEnPgtY0-8gL7hau0u1Jw/viewform?usp=header) to help us prepare.
 
+For more details, you can read our full [workshop proposal](assets/COMPASS_25_Community_Data_Workshop_Proposal.pdf).
+
+## Workshop Schedule
+
+The workshop will be held hybrid, in-person in Toronto and online on Zoom. Please refer to the COMPASS 2025 website for details on the in-person location.
+
+All times are Eastern Time (ET).
+
+| Time | Activity |
+|-------|--------|
+| 2:00-2:30 PM | Welcome, quick introductions, and ice-breaker ideation session |
+| 2:30-3:30 PM | Panel discussion |
+| 3:30-3:45 PM | Break |
+| 3:45-4:45 PM | Breakout sessions: small-group discussions on case studies |
+| 4:45-5:15 PM | Report-back and synthesis |
+| 5:15-6:00 PM | Closing, next steps, and open networking |
+
+## Panelists
+
+- Julia Kreutzer: Senior Research Scientist, Cohere Labs
+- Monojit Choudhury: Professor of Natural Language Processing, MBZUAI
+- Vera Khovanskaya: Assistant Professor, University of Toronto
+
 ## Organizers
 
 - Charles Nimo (Georgia Institute of Technology)
@@ -20,3 +43,5 @@ If you are interested in attending, please fill out this [Google Form](https://d
 - Amy Z. Chen (Georgia Institute of Technology)
 - Ramaravind Kommiya Mothilal (University of Toronto)
 - Michael L. Best (Georgia Institute of Technology)
+
+You can reach out to us at comdataworkshop@gmail.com.
