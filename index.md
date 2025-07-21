@@ -2,8 +2,9 @@
 layout: custom_home
 title: Community-Driven Data Practices
 ---
-
-![Workshop Banner](assets/banner.png)
+<p align="center">
+<img src="assets/acm_compass_workshop_main_flyer.jpg" width=50% height=50%>
+</p>
 
 # Community-Driven Data Practices for Advancing Ethical and Equitable AI in Low-Resource Language Contexts
 
@@ -13,11 +14,11 @@ This workshop invites researchers with diverse experiences---including but not l
 
 If you are interested in attending, please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeVRpt8es1aMK1g-35oEyhBcJ3WHsEnPgtY0-8gL7hau0u1Jw/viewform?usp=header) to help us prepare.
 
-For more details, you can read our full [workshop proposal](assets/COMPASS_25_Community_Data_Workshop_Proposal.pdf).
+For more details, you can read our full [workshop proposal](assets/COMPASS_25__Workshop_Proposal.pdf).
 
 ## Workshop Schedule
 
-The workshop will be held hybrid, in-person in Toronto and online on Zoom. Please refer to the COMPASS 2025 website for details on the in-person location.
+The workshop is scheduled on **July 23rd (Wednesday) from 2:00 PM to 5:00 PM**. It will be held hybrid, in-person in Toronto and online on Zoom. Please refer to the COMPASS 2025 website for details on the in-person location.
 
 All times are Eastern Time (ET).
 
