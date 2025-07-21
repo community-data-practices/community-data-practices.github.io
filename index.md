@@ -18,7 +18,7 @@ For more details, you can read our full [workshop proposal](assets/COMPASS_25__W
 
 ## Workshop Schedule
 
-The workshop is scheduled on **July 23rd (Wednesday) from 2:00 PM to 5:00 PM**. It will be held hybrid, in-person in Toronto and online on Zoom. Please refer to the COMPASS 2025 website for details on the in-person location.
+The workshop is scheduled on **July 23rd (Wednesday) from 2:00 PM to 6:00 PM**. It will be held hybrid, in-person in Toronto and online on Zoom. Please refer to the COMPASS 2025 website for details on the in-person location.
 
 All times are Eastern Time (ET).
 
