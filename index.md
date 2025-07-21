@@ -3,9 +3,9 @@ layout: custom_home
 title: Community-Driven Data Practices
 ---
 
-<center><img src="/assets/acm_compass_workshop_main_flyer.jpg" width="500" height="500"></center>
- 
 # Community-Driven Data Practices for Advancing Ethical and Equitable AI in Low-Resource Language Contexts
+
+<center><img src="/assets/acm_compass_workshop_main_flyer.jpg" width="500" height="500"></center>
 
 The collection of low-resource language data for AI technology development has always remained difficult, but the exponentially increasing need for data for the current paradigm of training large language models can further marginalize these languages. Even with some community-driven data collection methods developed, there are various ethical issues to be considered, given that many of these languages are spoken in the Global South, where such technology development might not always benefit, or could even be potentially harmful to the communities.
 
