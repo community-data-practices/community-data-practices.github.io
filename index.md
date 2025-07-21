@@ -3,7 +3,7 @@ layout: custom_home
 title: Community-Driven Data Practices
 ---
 
-<center><img src="/assets/acm_compass_workshop_main_flyer.jpg" width=50% height=50%></center>
+<center><img src="/assets/acm_compass_workshop_main_flyer.jpg" width="500" height="500"></center>
  
 # Community-Driven Data Practices for Advancing Ethical and Equitable AI in Low-Resource Language Contexts
 
